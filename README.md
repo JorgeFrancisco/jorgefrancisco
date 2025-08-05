@@ -1,4 +1,4 @@
-# Olá, sou Jorge Francisco, profissional com sólida trajetória em desenvolvimento de software, liderança técnica e arquitetura de sistemas. Ao longo da carreira, atuei em diversos setores — saúde, judiciário, meios de pagamento, automação industrial e segurança eletrônica — sempre com foco em performance, qualidade e inovação. 👋
+## Olá, sou Jorge Francisco, profissional com sólida trajetória em desenvolvimento de software, liderança técnica e arquitetura de sistemas. Ao longo da carreira, atuei em diversos setores — saúde, judiciário, meios de pagamento, automação industrial e segurança eletrônica — sempre com foco em performance, qualidade e inovação. 👋
 
 💼 Analista de Sistemas Sênior (DEV e/ou Líder Técnico) | Arquiteto de Software | Entusiasta em Soluções Escaláveis | Backend | +20 anos de experiência em TI
 
